@@ -1,4 +1,4 @@
-import { ABOUT } from "../constants/Index"
+import { ABOUT } from "../constants/index.jsx"
 import parth from "../assets/parth2.jpg";
 
 const About = () => {

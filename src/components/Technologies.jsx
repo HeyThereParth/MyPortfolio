@@ -11,6 +11,7 @@ import { FaPython } from "react-icons/fa";
 import { FaGitAlt } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { VscVscode } from "react-icons/vsc";
+import { SiMysql } from "react-icons/si";
 
 
 const Technologies = () => {
@@ -47,19 +48,7 @@ const Technologies = () => {
       lg:text-5xl"/>
       </div>
       <div className="rounded-2xl border-4 border-neutral-800 p-4 hover:scale-105 transition-all hover:shadow-md">
-      <FaReact className="text-3xl
-      lg:text-5xl"/>
-      </div>
-      <div className="rounded-2xl border-4 border-neutral-800 p-4 hover:scale-105 transition-all hover:shadow-md">
-      <FaReact className="text-3xl
-      lg:text-5xl"/>
-      </div>
-      <div className="rounded-2xl border-4 border-neutral-800 p-4 hover:scale-105 transition-all hover:shadow-md">
-      <FaReact className="text-3xl
-      lg:text-5xl"/>
-      </div>
-      <div className="rounded-2xl border-4 border-neutral-800 p-4 hover:scale-105 transition-all hover:shadow-md">
-      <FaReact className="text-3xl
+      <SiMysql className="text-3xl
       lg:text-5xl"/>
       </div>
       <div className="rounded-2xl border-4 border-neutral-800 p-4 hover:scale-105 transition-all hover:shadow-md">
@@ -83,10 +72,6 @@ const Technologies = () => {
       </div>
       <div className="rounded-2xl border-4 border-neutral-800 p-4 hover:scale-105 transition-all hover:shadow-md">
       <VscVscode className="text-3xl
-      lg:text-5xl"/>
-      </div>
-      <div className="rounded-2xl border-4 border-neutral-800 p-4 hover:scale-105 transition-all hover:shadow-md">
-      <FaReact className="text-3xl
       lg:text-5xl"/>
       </div>
       </div>

@@ -23,7 +23,7 @@ export const LINKS = [
 ];
 
 export const MARQUEE_TEXT =
-   `- HTML - CSS - Bootstrap - React - Node - MongoDb - Tailwind - Javascript - Git - Github `;
+   ` - HTML - CSS - Bootstrap - React - Node - MongoDb - Tailwind - Javascript - Git - Github - SQL `;
 
 export const PROJECTS = [
   {
@@ -32,7 +32,7 @@ export const PROJECTS = [
     description:
       "An AI powered resume building platform that can build your resume within minutes.",
     imgSrc: project1,
-    link: "https://example.com/ecommerce-website",
+    link: "https://github.com/HeyThereParth/ResuMate",
   },
   {
     id: 2,
@@ -48,37 +48,37 @@ export const PROJECTS = [
     description:
       "A personal portfolio website to showcase projects and skills.",
     imgSrc: project3,
-    link: "https://example.com/portfolio-website",
+    link: "https://github.com/HeyThereParth/MyPortfolio",
   },
   {
     id: 4,
-    title: "Bubblegame",
+    title: "E-learning",
     description:
-      "A fast-paced web game where you match numbers on bubbles to score points before time runs out!.",
+      "It is a dynamic Learning Management System built on the MERN stack, offering a seamless learning experience.",
     imgSrc: project4,
-    link: "https://github.com/HeyThereParth/BubbleGame",
+    link: "https://github.com/HeyThereParth/LMS",
   },
   {
     id: 5,
-    title: "Task Management Tool",
-    description: "A task management tool to organize and prioritize work.",
+    title: "BGone",
+    description: "This is a simple web-based tool that removes the background of an image and converts it to a PNG format with transparency.",
     imgSrc: project5,
-    link: "https://example.com/task-management-tool",
+    link: "https://bgone-parth-guptas-projects-67c7b09c.vercel.app/",
   },
   {
     id: 6,
-    title: "Online Learning Platform",
+    title: "Bubblegame",
     description:
-      "An online learning platform offering various courses and resources.",
+      "A fast-paced web game where you match numbers on bubbles to score points before time runs out!.",
     imgSrc: project6,
-    link: "https://example.com/online-learning-platform",
+    link: "https://github.com/HeyThereParth/BubbleGame",
   },
   {
     id: 7,
-    title: "Fitness Tracker",
-    description: "A mobile application to track fitness activities and goals.",
+    title: "QR Code Generator",
+    description: "This tool allows you to generate QR codes for any input text or URL quickly.",
     imgSrc: project7,
-    link: "https://example.com/fitness-tracker",
+    link: "https://github.com/HeyThereParth/QR-generator",
   },
   {
     id: 8,
@@ -103,10 +103,6 @@ export const ABOUT =
 
 export const SOCIAL_MEDIA_LINKS = [
  
-  {
-    href: "https://x.com/",
-    icon: <FaDiscord fontSize={26} className="hover:opacity-80" />,
-  },
   {
     href: "https://www.instagram.com/_parth_gupta_/",
     icon: <FaInstagram fontSize={26} className="hover:opacity-80" />,

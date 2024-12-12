@@ -2,7 +2,7 @@ import { MARQUEE_TEXT } from "../constants"
 import { motion } from "framer-motion"
 const Marquee = () => {
   return (
-    <div className="mt-4 w-full bg-lime-300 text-black lg:py-5"><div className=" flex overflow-hidden whitespace-nowrap pb-2">
+    <div className="mt-4 w-full bg-lime-300 text-black lg:py-4"><div className=" flex overflow-hidden whitespace-nowrap pb-2">
         {[...Array(2)].map((_, i) => (
             <motion.h1
             initial={{x: "-100%"}}

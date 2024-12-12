@@ -11,7 +11,7 @@ const Hero = () => {
                 GUPTA
             </h1>
             <div className='mt-8'>
-                <a href="/Benson-Longford.pdf"   
+                <a href="/ParthGupta_resume.pdf"   
                 target='_blank'
                 rel='noopner noreferrer'
                 download

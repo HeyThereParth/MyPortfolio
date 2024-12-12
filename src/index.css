@@ -6,4 +6,5 @@
 font-family: 'oswald';
 background-color: #000000;
 scroll-behavior: smooth;
+overflow-x: hidden;
 }
