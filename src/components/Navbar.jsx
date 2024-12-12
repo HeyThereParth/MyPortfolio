@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { FaTimes, FaBars } from "react-icons/fa";
-import { LINKS } from "../constants/index.jsx";
+import { LINKS } from "../constants/Index.jsx";
 
 const Navbar = () => {
   const [isOpen, setIsopen] = useState(false);
