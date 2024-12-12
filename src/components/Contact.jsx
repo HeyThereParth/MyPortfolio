@@ -1,4 +1,4 @@
-import { CONTACT, SOCIAL_MEDIA_LINKS } from "../constants"
+import { CONTACT, SOCIAL_MEDIA_LINKS } from "../constants/Index.jsx"
 
 const Contact = () => {
   return (
