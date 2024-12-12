@@ -1,4 +1,4 @@
-import { MARQUEE_TEXT } from "../constants"
+import { MARQUEE_TEXT } from "../constants/Index.jsx"
 import { motion } from "framer-motion"
 const Marquee = () => {
   return (
