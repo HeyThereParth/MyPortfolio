@@ -36,11 +36,11 @@ export const PROJECTS = [
   },
   {
     id: 2,
-    title: "Social Media App",
+    title: "ImageHunt",
     description:
-      "A social media application with real-time chat and notifications.",
+      " An image search application built with React and styled using Tailwind CSS.",
     imgSrc: project2,
-    link: "https://example.com/social-media-app",
+    link: "https://imagehunt-theta.vercel.app/",
   },
   {
     id: 3,
