@@ -32,7 +32,7 @@ export const PROJECTS = [
     description:
       "An AI powered resume building platform that can build your resume within minutes.",
     imgSrc: project1,
-    link: "https://github.com/HeyThereParth/ResuMate",
+    link: "https://resu-mate--flame.vercel.app/",
   },
   {
     id: 2,
